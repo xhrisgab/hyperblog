@@ -3,4 +3,6 @@ Esta es la Historia de mi vida.
 Christian Cuevas, nacio un 11 de Marzo de 1990 en Bolvia.
 Se metio en el mundo de Ing de sistemas.
 
+Anita tiene 41 yeas old y nacio en Linux OpenSUSE
+
 Pronto se dio cuenta que le gustaba programar en c++.
