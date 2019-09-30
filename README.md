@@ -10,6 +10,6 @@ En este repo podras ver:
 * Feed no debe faltar para avanzar
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
-
+* Disponible para todas las edades
 
 Como feed final: **Esto es una prueba** para mostrar el progreso.
