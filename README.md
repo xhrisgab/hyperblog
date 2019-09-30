@@ -9,5 +9,7 @@ En este repo podras ver:
 * la importancia de commits y merges y esas cosas para laburar
 * Feed no debe faltar para avanzar
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+
 
 Como feed final: **Esto es una prueba** para mostrar el progreso.
