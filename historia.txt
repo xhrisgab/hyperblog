@@ -7,4 +7,6 @@ Anita es un usuario q contribuye con el blogpost desde OpenSUSE'
 
 Master 1
 
+Master 2
+
 Pronto se dio cuenta que le gustaba programar en c++.
