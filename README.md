@@ -8,5 +8,6 @@ En este repo podras ver:
 * El flujo de trabajo y la cantidad enorme de errores que salen a la luz
 * la importancia de commits y merges y esas cosas para laburar
 * Feed no debe faltar para avanzar
+* Creado por el increible Platzi Team
 
 Como feed final: **Esto es una prueba** para mostrar el progreso.
